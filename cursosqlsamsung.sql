@@ -39,8 +39,8 @@ CREATE TABLE `usuario` (
 --
 
 INSERT INTO `usuario` (`ID`, `NOMBRE`, `APELLIDO`, `EMAIL`) VALUES
-(1, 'Natallia', 'Sipava', 'natallia.sipava.93"@gmail.com'),
-(2, 'Elena', 'Sipava', 'elena.sipava.58"@gmail.com');
+(1, 'Natallia', 'Sipava', 'natallia.sipava.93@gmail.com'),
+(2, 'Elena', 'Sipava', 'elena.sipava.58@gmail.com');
 
 --
 -- Índices para tablas volcadas
